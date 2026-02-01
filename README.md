@@ -1,5 +1,5 @@
 # Adesso-Video-Capture-Express
-Windows 10 Drivers for Adesso Video Capture Express USB 2.0 Device
+Windows 10 Drivers for Adesso Video Capture Express USB 2.0 Device aka `USB 28286 Device`
 
 Driver version 5.13.1218.1924 dated 7/24/2014
 
